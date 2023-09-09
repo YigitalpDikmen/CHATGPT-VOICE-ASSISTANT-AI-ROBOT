@@ -1,0 +1,1 @@
+Your google json file needs to place here, in order to use google text to speech and speech to text services.
