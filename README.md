@@ -1,2 +1,3 @@
 # CHATGPT-VOICE-ASSISTANT-AI-ROBOT
-(Cover.jpg)
+![Cover](https://github.com/YigitalpDikmen/CHATGPT-VOICE-ASSISTANT-AI-ROBOT/assets/45261965/d48eee47-3cea-44e8-83e3-7a90453def0f)
+
